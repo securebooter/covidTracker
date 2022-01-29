@@ -6,7 +6,7 @@ from tkinter import *
 window = Tk()
 window.title('Covid-19 Information')
 window.geometry('600x100')
-window.iconbitmap(r'C:\Users\example\OneDrive\Desktop\covidicon2.ico')
+window.iconbitmap(r'C:\covidicon2.ico')
 
 
 def get_country_info():
